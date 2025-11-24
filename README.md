@@ -52,7 +52,7 @@ firewall:
   whitelist-mode: false
   rules:
     example_rule:
-      ip: "192.168.1.100"
+      ip: "0.0.0.0"
       type: "whitelist"
       action: "allow"
 ```
