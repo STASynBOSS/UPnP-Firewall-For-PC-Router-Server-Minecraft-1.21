@@ -1,6 +1,6 @@
 name: Upnpfirewall
 version: 1.0.0
-main: feliksan4ik.DataBaseMC.upnpfirewall.Upnpfirewall
+main: feliksan4ik.databasemc.upnpfirewall.Main
 api-version: "1.21"
 description: UPnP Firewall and Port Management for Minecraft Server
 author: Feliksan4ik
